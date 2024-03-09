@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConsoleApplication1.cpp
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(88,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(130,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(130,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(149,73): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(149,73): warning C4244:         with
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(149,73): warning C4244:         [
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(149,73): warning C4244:             _Ty=int
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(149,73): warning C4244:         ]
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(154,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(154,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(215,20): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(215,20): warning C4244:         with
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(215,20): warning C4244:         [
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(215,20): warning C4244:             _Ty=int
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(215,20): warning C4244:         ]
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(219,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(220,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(241,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(242,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(327,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KIIT\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(327,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\KIIT\source\repos\ConsoleApplication1\x64\Debug\WaterShed-FloodFill.exe
